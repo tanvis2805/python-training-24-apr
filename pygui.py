@@ -24,3 +24,5 @@ for i in range(num_clicks):
     
     # Wait for the specified interval before simulating the next mouse click
     time.sleep(interval)
+    print("xyz")
+    print(30)
